@@ -1,0 +1,2 @@
+# quna
+Quna WordPress theme
