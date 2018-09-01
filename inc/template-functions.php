@@ -216,14 +216,6 @@ function quna_is_hide_title_on_homepage() {
 }
 
 /**
- * Shortcode init
- */
-add_action('init', 'quna_shortcode_init');
-function quna_shortcode_init() {
-	add_shortcode('risbl-social', 'quna_shortcode_social');
-}
-
-/**
  * Social shortcode
  */
 function quna_shortcode_social() {
