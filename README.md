@@ -1,5 +1,5 @@
 Quna
 ===
 
-* [Live Demo](https://demo.kharis.risbl.co)
+* [Live Demo](https://themes.weeizz.com/quna/)
 * [Documentation](https://github.com/kharissulistiyo/quna/wiki)
